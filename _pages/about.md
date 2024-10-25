@@ -44,7 +44,7 @@ I have published several papers at conferences and journals, including CVPR, ECC
 
 **MingboHong**, Shen Cheng, Haibin Huang, Haoqiang Fan, Shuaicheng Liu 
 
-[Paper](https://arxiv.org/abs/2408.16236)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
+[Paper](https://arxiv.org/abs/2410.18398)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
 
 [![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=YOLA Stars)](https://github.com/MingboHong/SSPNet)
 
