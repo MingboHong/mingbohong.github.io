@@ -102,5 +102,5 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 
 
 # 🗺️ Visitor Map
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=8Gd6LyQX6ZUDXXq9zxO9WALJVhlrUU9-VtoyJ-_g53Y"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8Gd6LyQX6ZUDXXq9zxO9WALJVhlrUU9-VtoyJ-_g53Y&cl=ffffff&w=a"></script>
 
