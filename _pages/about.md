@@ -29,12 +29,27 @@ My research interests include image alignment and Tiny / Low-light object detect
 I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, IEEE GRSL, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
+- *2024.11*: 🎉 One paper is accepted by IEEE TPAMI
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
 - *2024.07*: 🎉 One paper is accepted by ECCV 2024
 - *2022.06*: 🎉 Graduated from Sichuan University, grateful to my advisor [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao).
 - *2022.03*: 🎉 One paper is accepted by CVPR 2022
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TPAMI </div><img src='images/HomoGAN.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+** Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN**
+
+ Shuaicheng Liu, **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Bing Zeng
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
+
+[![](https://img.shields.io/github/stars/megvii-research/HomoGAN?style=social&label=HomoGAN Stars)](https://github.com/megvii-research/HomoGAN)
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/yola.png' alt="sym" width="100%"></div>
