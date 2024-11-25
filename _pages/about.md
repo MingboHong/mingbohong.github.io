@@ -40,7 +40,7 @@ I have published several papers at conferences and journals, including CVPR, ECC
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TPAMI </div><img src='images/MeshHomo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-** Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN**
+**Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN**
 
  Shuaicheng Liu, **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Bing Zeng
 [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
