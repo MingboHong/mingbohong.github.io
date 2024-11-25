@@ -37,7 +37,7 @@ I have published several papers at conferences and journals, including CVPR, ECC
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TPAMI </div><img src='images/HomoGAN.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TPAMI </div><img src='images/MeshHomo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 ** Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN**
