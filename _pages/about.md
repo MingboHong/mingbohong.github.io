@@ -42,7 +42,8 @@ I have published several papers at conferences and journals, including CVPR, ECC
 
 **Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN**
 
- Shuaicheng Liu, **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Bing Zeng
+Shuaicheng Liu, **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Bing Zeng
+
 [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
 
 [![](https://img.shields.io/github/stars/megvii-research/HomoGAN?style=social&label=HomoGAN Stars)](https://github.com/megvii-research/HomoGAN)
