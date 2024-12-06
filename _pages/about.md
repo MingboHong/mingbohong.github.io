@@ -44,7 +44,7 @@ I have published several papers at conferences and journals, including CVPR, ECC
 
 Shuaicheng Liu, **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Bing Zeng
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
+[Paper](https://ieeexplore.ieee.org/abstract/document/10772056/)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
 
 [![](https://img.shields.io/github/stars/megvii-research/HomoGAN?style=social&label=HomoGAN Stars)](https://github.com/megvii-research/HomoGAN)
 
@@ -118,5 +118,8 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 
 
 # 🗺️ Visitor Map
+
+<div style="width: 400px; height: 300px;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8Gd6LyQX6ZUDXXq9zxO9WALJVhlrUU9-VtoyJ-_g53Y&cl=ffffff&w=a"></script>
+</div>
 
