@@ -29,6 +29,7 @@ My research interests include image alignment and Tiny / Low-light object detect
 I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, IEEE GRSL, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
+- *2024.12*: 🎉 One paper is accepted by AAAI 2025
 - *2024.11*: 🎉 One paper is accepted by IEEE TPAMI
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
 - *2024.07*: 🎉 One paper is accepted by ECCV 2024
@@ -36,6 +37,22 @@ I have published several papers at conferences and journals, including CVPR, ECC
 - *2022.03*: 🎉 One paper is accepted by CVPR 2022
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2025 </div><img src='images/RSdiffuser.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Single Image Rolling Shutter Removal with Diffusion Models**
+
+Zhanglei Yang, Haipeng Li, **Mingbo Hong**, Jiajun Li, Bing Zeng,  Shuaicheng Liu
+
+[Paper](https://arxiv.org/pdf/2407.02906)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:UeHWp8X0CEIC'></span></strong> 
+
+[![](https://img.shields.io/github/stars/lhaippp/RS-Diffusion?style=social&label=RS-Diffusion Stars)](https://github.com/lhaippp/RS-Diffusion)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TPAMI </div><img src='images/MeshHomo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
