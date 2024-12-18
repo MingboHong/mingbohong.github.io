@@ -62,7 +62,7 @@ Shuaicheng Liu, **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Bing Zeng
 
 [Paper](https://arxiv.org/abs/2410.18398)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
 
-[![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=YOLA Stars)](https://github.com/MingboHong/SSPNet)
+[![](https://img.shields.io/github/stars/MingboHong/YOLA?style=social&label=YOLA Stars)](https://github.com/MingboHong/YOLA)
 
 </div>
 </div>
