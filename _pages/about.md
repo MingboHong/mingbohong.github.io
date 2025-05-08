@@ -18,26 +18,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a researcher at Megvii Technology, supervised by [Prof.Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Master's degree from Sichuan University in 2022, supervised by [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao). 
+I am a first-year Ph.D. student at the University of Twente, advised by [Hao Cheng](https://scholar.google.de/citations?user=oHK-JSUAAAAJ&hl=en), [Caroline Gevaert](https://scholar.google.nl/citations?user=ab_tGL4AAAAJ&hl=en), and [George Vosselman](https://scholar.google.nl/citations?user=ro6HQUIAAAAJ&hl=en).
 Prior to this,
-I received my Bachelor's degree from Sichuan Agricultural University in 2019.
+I was a researcher at Megvii Technology, supervised by [Prof.Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Master's degree from Sichuan University in 2022, supervised by [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao). 
+I also received my Bachelor's degree from Sichuan Agricultural University in 2019.
 
 During the Megvii,  I was luckily mentored by [Shen Cheng](https://scholar.google.com/citations?user=gBE3HvwAAAAJ&hl=en), [Haipeng Li](https://lhaippp.github.io/), and [Nianjin Ye](https://scholar.google.com/citations?user=AhwGG78AAAAJ&hl=zh-CN).
 
-My research interests include image alignment and Tiny / Low-light object detection. Find more detailed information in my [CV](https://drive.google.com/file/d/1qSZYsBv1il37LwWUyprQfygkPF6lldks/view?usp=drive_link)
+My research interests include image alignment and object detection. Find more detailed information in my [CV](https://drive.google.com/file/d/1qSZYsBv1il37LwWUyprQfygkPF6lldks/view?usp=drive_link)
 
-I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, AAAI, IEEE TPAMI, IEEE GRSL, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
+I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, AAAI, IEEE TPAMI, IEEE TCSVT, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
-- *2025.04*: Next Trip -> UT
+- *2025.04*: 🎉 One paper is accepted by IEEE TCSVT
 - *2024.12*: 🎉 One paper is accepted by AAAI 2025
 - *2024.11*: 🎉 One paper is accepted by IEEE TPAMI
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
 - *2024.07*: 🎉 One paper is accepted by ECCV 2024
-- *2022.06*: 🎉 Graduated from Sichuan University, grateful to my advisor [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao).
-- *2022.03*: 🎉 One paper is accepted by CVPR 2022
+
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TCSVT </div><img src='images/RSdiffuser.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-Frame Rolling Shutter Correction with Diffusion Models**
+
+Zhanglei Yang, Haipeng Li, Shen Cheng, **Mingbo Hong**, Bing Zeng, Shuaicheng Liu
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/10965711)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:W7OEmFMy1HYC'></span></strong> 
+
+[![](https://img.shields.io/github/stars/lhaippp/DM-RSC?style=social&label=DM-RSC Stars)](https://github.com/lhaippp/DM-RSC)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2025 </div><img src='images/RSdiffuser.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
