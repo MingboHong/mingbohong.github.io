@@ -39,7 +39,7 @@ I have published several papers at conferences and journals, including CVPR, ECC
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TCSVT </div><img src='images/RSdiffuser.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TCSVT </div><img src='images/MultiRS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-Frame Rolling Shutter Correction with Diffusion Models**
