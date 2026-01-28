@@ -149,6 +149,9 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 - *2022.05* Distinguished Graduation Thesis of Sichuan University 
 - *2022.06* Outstanding Graduate Student of Sichuan University 
 
+# 🔬 Academic Services
+- *Journals:* JBHI
+- *Conference*  NeurIPS25, CVPR26, ECCV26, ACM MM26
 
 # 🗺️ Visitor Map
 
