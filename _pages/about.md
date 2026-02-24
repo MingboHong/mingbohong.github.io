@@ -30,6 +30,7 @@ My research interests include image alignment and object detection. Find more de
 I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, AAAI, IEEE TPAMI, IEEE TCSVT, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
+- *2026.02*: 🎉 One paper is accepted by CVPR 2026
 - *2025.04*: 🎉 One paper is accepted by IEEE TCSVT
 - *2024.12*: 🎉 One paper is accepted by AAAI 2025
 - *2024.11*: 🎉 One paper is accepted by IEEE TPAMI
