@@ -39,6 +39,19 @@ I have published several papers at conferences and journals, including CVPR, ECC
 
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026 </div><img src='images/MultiRS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**
+
+**Mingbo Hong**, Feng Liu, Caroline Gevaert, George Vosselman, Hao Cheng
+
+
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE TCSVT </div><img src='images/MultiRS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
