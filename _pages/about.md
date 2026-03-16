@@ -165,7 +165,7 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 
 # 🔬 Academic Services
 - *Journals:* JBHI
-- *Conference*  NeurIPS25, CVPR26, ECCV26, ACM MM26
+- *Conference*  NeurIPS25, CVPR26, ECCV26, ACM MM26,25
 
 # 🗺️ Visitor Map
 
