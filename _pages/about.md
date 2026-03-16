@@ -39,7 +39,7 @@ I have published several papers at conferences and journals, including CVPR, ECC
 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026 </div><img src='https://github.com/MingboHong/Bridge/blob/main/public/bridge/heatmap.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026 </div><img src='images/heatmap.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**
