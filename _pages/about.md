@@ -25,7 +25,7 @@ I also received my Bachelor's degree from Sichuan Agricultural University in 201
 
 During the Megvii,  I was luckily mentored by [Shen Cheng](https://scholar.google.com/citations?user=gBE3HvwAAAAJ&hl=en), [Haipeng Li](https://lhaippp.github.io/), and [Nianjin Ye](https://scholar.google.com/citations?user=AhwGG78AAAAJ&hl=zh-CN).
 <!--
-My research interests include image alignment. {%Find more detailed information in my [CV](https://drive.google.com/file/d/1qSZYsBv1il37LwWUyprQfygkPF6lldks/view?usp=drive_link) %}
+My research interests include image alignment. 
  -->
 I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, AAAI, IEEE TPAMI, IEEE TCSVT, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
